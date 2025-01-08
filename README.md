@@ -1,1 +1,1 @@
-# rizkipratama-v2
+rizkipratama.vercel.app
