@@ -1,1 +1,1 @@
-rizkipratama.vercel.app
+(https://rizkipratama.vercel.app/)
