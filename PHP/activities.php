@@ -53,7 +53,7 @@
             </div>
             <div class="activity-item">
                 <img src="Assets/image5.jpg" alt="Activity 5">
-                <p>Activity 4 Description</p>
+                <p>Activity 5 Description</p>
             </div>
         </div>
     </section>
